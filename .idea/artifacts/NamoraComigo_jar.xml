@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NamoraComigo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NamoraComigo_jar</output-path>
+    <root id="archive" name="NamoraComigo.jar">
+      <element id="module-output" name="NamoraComigo" />
+    </root>
+  </artifact>
+</component>
